@@ -1,0 +1,41 @@
+Substation/Storefront	Phone Number	Address	Police Beat	Hours of Operation	   
+Central	713.247.4400	61 Riesner	2A40	OPEN 24 HOURS	   
+Near Town (Montrose)	832.394.9900	802 Westheimer	1A20	8:00 AM-4:00 PM (M-F)	   
+Heights	713.803.1151	1127 N. Shepherd	2A30	8:00 AM-4:00 PM (M-F)	   
+North	281.405.5300	9455 W.Montgomery	6B40	OPEN 24 HOURS	   
+Near North	713.956.3140	1335 West 43rd	3B30	9:00 AM - 5:00 PM (M-F)	   
+Independence Heights	713.742.1491	803 Crosstimbers St	3B40	9:00 AM - 5:00 PM (M-F)	   
+Acres Homes	713.699.9591	6719 W. Montgomery	6B40	9:00 AM - 5:00 PM (M-F)	   
+Greenspoint	281.875.6155	105 Greenspoint Mall	6B60	9:00 AM-5:00 PM (M-F)	   
+Northwest	832.394.5500	6000 Teague	5F30	OPEN 24 HOURS	   
+Spring Branch	832.394.0100	8400 Long Point	5F20	8:00 AM-4:00 PM (M-F)	   
+Willowbrook	832.394.2720	17375 Tomball Pkwy	5F40	9:00 AM-5:00 PM (M-F)	   
+Northeast	832.395.1500	8301 Ley Rd	8C30	OPEN 24 HOURS	   
+Fifth Ward	713.238.3232	4014 Market St.	7C10	9:00 AM-5:00 PM(M-F)	   
+Denver Harbor	713.670.2117	6402 Market St.	9C20	8:00 AM-2:00 PM(M-F)	   
+East Freeway	713.637.2120	12001 East Freeway	9C40	9:00 AM-5:00 PM(M-F)	   
+South Central	832.394.0200	2202 St. Emanuel	10H50	OPEN 24 HOURS	   
+Ripley House (Navigation)	832.394.7510	4401 Navigation	10H10	8:00 AM-3:00 PM (M-F)	   
+Southmore	832.394.7500	3711 Southmore	10H60	7:00 AM-3:00 PM (M-F)	   
+Eastside	832.395.1580	7525 Sherman	11H10	OPEN 24 HOURS	   
+Leija	713.847.1210	4701 Galveston Rd.	11H40	8:00 AM-4:00 PM (M-F)	   
+Clear Lake	832.395.1777	2855 Bay Area Blvd.	12D50	OPEN 24 HOURS	   
+Southeast	832.394.1600	8300 Mykawa	14D30	OPEN 24 HOURS	   
+Broadway Square	713.847.4155	8751 Broadway	13D20	8:00 AM-4:00 PM (M-F)	   
+Telephone Road	713.991.3504	10201 Telephone	13D40	8:00 AM-5:30 PM (M-F)	   
+Palm Center	832.394.7650	5330 Griggs	14D10	8:00 AM-6:00 PM (M-F)	   
+Sunnyside	832.394.7465	3511 Reed Road	14D20	8:00 AM-5:00 PM (M-F)	   
+Southwest	713.314.3900	4503 Beechnut	15E30A	OPEN 24 HOURS	   
+Westbury	832.394.7520	5600 S Willow Dr.	15E20	10:00 AM-4:00 PM (M-F)	   
+Hiram Clarke	832.394.9840	4363 West Fuqua	16E20	8:00 AM-6:00 PM (M-F)	   
+South Gessner Division	832.394.4700	8605 Westplace Dr.	17E40A	OPEN 24 HOURS	   
+Gulfton	713.314.3171	5980 Renwick	17E10	8:00 AM-4:00 PM (M-F)	   
+Braeburn 	713.773.7550	7576 West Bellfort	17E40	8:00 AM-4:00 PM (M-F)	   
+Midwest	832.394.1200	7277 Regency Square	18F50	OPEN 24 HOURS	   
+Richmond	832.394.7540	6310 Richmond Ave	18F30	8:00 AM-4:00 PM (M-F)	   
+Ranchester	832.394.2780	9160 Bellaire (Suite F)	18F60	8:00 AM-4:00 PM (M-F)	   
+Westside	832.394.5600	3203 S. Dairy Ashford	20G30	OPEN 24 HOURS	   
+Westwood	832.394.7620	9700 Bissonnet	19G10	8:00 AM-4:00 PM (M-F)	   
+Airport - IAH	281.230.6800	3100 N. Terminal Rd.	21I20	OPEN 24 HOURS	   
+Airport - HOU	713.845.6800	7800 Airport	23J20	OPEN 24 HOURS	   
+Kingwood	832.395.1800	3915 Rustic Woods	24C20	OPEN 24 HOURS
